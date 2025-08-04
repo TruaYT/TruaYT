@@ -26,7 +26,7 @@ Willkommen auf meinem GitHub – hier findest du Code, Chaos und ein bisschen Ge
 - 💬 **Discord:** `TruaYT` & [TruaYT Discord](https://dc.truayt.de)
 - 🕸️ **Website:** [truayt.de](https://truayt.de)
 - 🐦 **X (Twitter):** [@TruaYT](https://x.com/TruaYT)
-- 📸 **Instagram:** [@TruaYT](https://instagram.com/realTrua)
+- 📸 **Instagram:** [@realtrua](https://instagram.com/realtrua)
 
 ---
 
