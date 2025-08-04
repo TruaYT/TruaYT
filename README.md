@@ -32,7 +32,7 @@ Willkommen auf meinem GitHub – hier findest du Code, Chaos und ein bisschen Ge
 
 ## 📊 GitHub Stats
 
-![TruaYT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TruaYTt&show_icons=true&theme=radical)
+![TruaYT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TruaYT&show_icons=true&theme=radical)
 
 ---
 
