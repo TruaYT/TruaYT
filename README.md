@@ -21,13 +21,12 @@ Willkommen auf meinem GitHub – hier findest du Code, Chaos und ein bisschen Ge
 
 > Am besten erreichst du mich da, wo's laut wird:
 
-- 🎥 **YouTube:** [@TruaYT](https://youtube.com/@TruaYT)
+- 🎥 **YouTube:** [@TruaYT](https://youtube.com/@Trua)
 - 🎮 **Twitch:** [@TruaYT](https://twitch.tv/TruaYT)
-- 💬 **Discord:** `TruaYT` & [einCode Discord](https://discord.gg/DEIN-DISCORD)
+- 💬 **Discord:** `TruaYT` & [TruaYT Discord](https://dc.truayt.de)
 - 🕸️ **Website:** [truayt.de](https://truayt.de)
-- 🐦 **X (Twitter):** [@TruaYT_](https://x.com/TruaYT_)
-- 📸 **Instagram:** [@TruaYT_](https://instagram.com/TruaYT_)
-- 📧 Kontakt: [mail@truayt.de](mailto:mail@truayt.de)
+- 🐦 **X (Twitter):** [@TruaYT_](https://x.com/TruaYT)
+- 📸 **Instagram:** [@TruaYT_](https://instagram.com/realTrua)
 
 ---
 
